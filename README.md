@@ -7,3 +7,6 @@ I love to code & share and frequently visiting [StackOverflow](https://stackover
 After 9TO5, I work on personal project - [Ilajna](http://ilajna.co)
 
 Strong believer of - "Learning - the best phase of life".
+
+## Past Experience
+### Technical Manager [iFlair Web Technologies](https://www.iflair.com)
