@@ -10,3 +10,6 @@ Strong believer of - "Learning - the best phase of life".
 
 ## Past Experience
 ### Technical Manager [iFlair Web Technologies](https://www.iflair.com)
+
+## Reading/Course List
+### My List [https://marble-roquefort-742.notion.site/1994ff4914d88062b4a0c5af3ea8799f?v=1994ff4914d8814cbdfd000c814e58ff]
