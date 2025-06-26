@@ -1,4 +1,4 @@
-# Kamall A Joshi
+# Kamal Joshi
 
 ## Project Lead [Solvative](https://www.solvative.com/)
 
